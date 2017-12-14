@@ -1,0 +1,9 @@
+gunicorn==19.7.1
+pyaml==17.10.0
+flask
+flask-mongoengine
+flask-script
+httpsig
+gevent
+mongoengine
+
